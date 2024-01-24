@@ -26,6 +26,9 @@ int main(void) {
 
   //Your task is to declare an integer variable 'z', store the value of multiplication (x*y*z) and addition (x+y+z) in new variables, then print both the results.
 
-
+  int z = 13; 
+  printf("Your numbers are: "); 
+  scanf(x, y, z); 
+  
   return 0;
 }
